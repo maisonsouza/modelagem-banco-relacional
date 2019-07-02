@@ -1,2 +1,5 @@
-# modelagem-banco-relacional
- Curso de  Modelagem de Banco de Dados Relacional: Índices e Normalização
+# Curso de  Modelagem de Banco de Dados Relacional: Índices e Normalização
+
+
+####  Índices e Explain
+
